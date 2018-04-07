@@ -1,0 +1,56 @@
+{
+    "_from": "think-joi-router-docs",
+    "_id": "think-joi-router-docs@0.0.1",
+    "_inBundle": false,
+    "_integrity": "sha1-W2+HU0iT3ePub+hveZ8isiHQQtI=",
+    "_location": "/think-joi-router-docs",
+    "_phantomChildren": {},
+    "_requested": {
+        "type": "tag",
+        "registry": true,
+        "raw": "think-joi-router-docs",
+        "name": "think-joi-router-docs",
+        "escapedName": "think-joi-router-docs",
+        "rawSpec": "",
+        "saveSpec": null,
+        "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+        "#USER",
+        "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/think-joi-router-docs/-/think-joi-router-docs-0.0.1.tgz",
+    "_shasum": "5b6f87534893dde3ee6fe86f799f22b221d042d2",
+    "_spec": "think-joi-router-docs",
+    "_where": "/Users/sucaiquan/code",
+    "author": {
+        "name": "chianquan"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "koa-joi-router": "^5.1.0",
+        "koa-joi-router-docs": "^0.1.9",
+        "koa-router": "^7.4.0",
+        "koa-send": "^4.1.3",
+        "koa-static": "^4.0.2",
+        "koa-static-plus": "^0.1.1",
+        "lodash": "^4.17.5"
+    },
+    "deprecated": false,
+    "description": "thinkjs's router with joi validate and swagger doc.",
+    "keywords": [
+        "think",
+        "thinkjs",
+        "router",
+        "joi",
+        "swagger",
+        "docs"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "think-joi-router-docs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "0.0.2"
+}
